@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: aqua;
+    margin: 0;
+    overflow: hidden;
+}
+
+canvas {
+    background-color: green;
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+}
